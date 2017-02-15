@@ -12,6 +12,7 @@ import javax.swing.JOptionPane;
  * @author IstipanyaGrasya
  */
 public class TicTac extends javax.swing.JFrame {
+     private String turn = "X";
 
    public TicTac() {
         initComponents();
